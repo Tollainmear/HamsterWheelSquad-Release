@@ -1,0 +1,8 @@
+# 发布二进制仅放 Release 附件，Git 保存说明与校验清单。
+*.zip
+*.exe
+*.dll
+.env*
+*.key
+*.pfx
+*.log
