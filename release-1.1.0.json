@@ -1,0 +1,9 @@
+{
+  "version": "1.1.0",
+  "platform": "win-x64",
+  "clientCommit": "657500ef5101264f16632e9a05661e432732e36f",
+  "serverCommit": "9c29994d82e34ffc6cb4d42d3953ebcf5d4852ec",
+  "asset": "HamsterWheelSquad-1.1.0-win-release.zip",
+  "bytes": 76987610,
+  "sha256": "6d0733d391f4fb47001b9a6a1aab2c1e5636d4d4c97259a9398b318430268def"
+}
